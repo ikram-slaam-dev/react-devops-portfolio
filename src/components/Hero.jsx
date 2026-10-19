@@ -5,7 +5,7 @@ function Hero() {
         <div className="hero-text">
           <span className="eyebrow">Welcome to my portfolio</span>
           <h1>
-            Hi, I&apos;m a <span className="accent">DevOps Engineer</span> in the making.
+            Hi, I&apos;m a <span className="accent">DevOps Engineer</span> at Microsoft.
           </h1>
           <p>
             I build, automate and ship software. DevOps brings development and operations
